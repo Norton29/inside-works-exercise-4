@@ -1,4 +1,4 @@
-package com.nff.insideWorks.insideworksexercise4.entity.enuns;
+package com.nff.insideWorks.insideworksexercise4.domain.enuns;
 
 public enum Categoria {
 	
